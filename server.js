@@ -4,6 +4,13 @@ const port = 3000;
 
 app.use('/', express.static('public'));
 
+// Requiring budgetsdata file 
+const budget = require("./budgetsdata.json"); 
+  
+//console.log(budgetsdata);
+//end
+
+/*
 const budget = {
     myBudget: [
     {
@@ -19,7 +26,7 @@ const budget = {
         budget: 110
     },
     ]
-};
+};*/
 
 app.get('/hello', (req, res) => {
     res.send('Hello World!');

@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Meetings",
+        "budget": 1000
+    },
+    {
+        "title": "Rent",
+        "budget": 4500
+    },
+    {
+        "title": "Groceries",
+        "budget": 600
+    },
+    {
+        "title": "Cars",
+        "budget": 8600
+    },
+    {
+        "title": "Fun",
+        "budget": 25000
+    },
+    {
+        "title": "Alimony",
+        "budget": 1000
+    },
+    {
+        "title": "Assistant's Salary",
+        "budget": 12000
+    }
+]
